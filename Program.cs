@@ -26,7 +26,6 @@
 
         char ch = '2'; //2 byte
         string str = "Okan"; //sinirsiz
-
         bool b1 = true;
         bool b2 = false;
 
