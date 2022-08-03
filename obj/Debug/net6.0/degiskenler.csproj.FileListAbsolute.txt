@@ -1,0 +1,15 @@
+E:\VStudio Projects\degiskenler\bin\Debug\net6.0\degiskenler.exe
+E:\VStudio Projects\degiskenler\bin\Debug\net6.0\degiskenler.deps.json
+E:\VStudio Projects\degiskenler\bin\Debug\net6.0\degiskenler.runtimeconfig.json
+E:\VStudio Projects\degiskenler\bin\Debug\net6.0\degiskenler.dll
+E:\VStudio Projects\degiskenler\bin\Debug\net6.0\degiskenler.pdb
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.csproj.AssemblyReference.cache
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfoInputs.cache
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.AssemblyInfo.cs
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.csproj.CoreCompileInputs.cache
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.dll
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\refint\degiskenler.dll
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.pdb
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\degiskenler.genruntimeconfig.cache
+E:\VStudio Projects\degiskenler\obj\Debug\net6.0\ref\degiskenler.dll
